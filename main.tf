@@ -1,1 +1,1 @@
-varule
+terraform
