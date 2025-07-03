@@ -8,5 +8,14 @@ You are not in the right path, this is the error on below snap.
 Below error indicate the client_secret is nothing but value. And we have to given the SP user as a contributor right. I have explain in details how we can create the Service principle along with access.
 ![image](https://github.com/user-attachments/assets/a1124147-7492-4956-ada2-35852927d581)
 
+SP Details
+![image](https://github.com/user-attachments/assets/5d3006c1-8c5b-48bb-968c-e1be0f20889e)
+
+ client_id       = "d9f"
+ client_secret   = "VAb8Q" #value is the client secret
+ tenant_id       = "693bed"
+ subscription_id = "603c"
+
+
 
 
