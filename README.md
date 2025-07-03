@@ -1,3 +1,8 @@
+1. Download the terraform (add the path)
+2. Download the az cli (authenticate)
+3. Create the SP and give contributor right
+   
+
 Error We are facing while provisioning the resources using terraform.
 Below snap, we need to provide the SP details.
 ![image](https://github.com/user-attachments/assets/fdf88ddc-6691-4e82-bce9-c281c1b9c9d5)
