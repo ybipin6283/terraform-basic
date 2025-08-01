@@ -21,6 +21,10 @@ SP Details
  tenant_id       = "693bed"
  subscription_id = "603c"
 
+error while creating the remote backed.
+<img width="1463" height="169" alt="image" src="https://github.com/user-attachments/assets/a3a28b52-4bfe-4f92-818b-1085b0a7768c" />
 
+solution of remote backed. we have to manually create the storage account and manually create the container file as well.
+<img width="846" height="283" alt="image" src="https://github.com/user-attachments/assets/b3f923d8-1daa-4ff3-8d6e-01790ab98950" />
 
 
